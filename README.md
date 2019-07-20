@@ -1,6 +1,6 @@
 # DataStructure
 Something about DataSturcture
-
+## 记录重新自学数据结构的过程
 
 
 
