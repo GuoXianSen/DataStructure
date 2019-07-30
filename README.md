@@ -9,6 +9,9 @@ Something about DataSturcture
 + 链式存储结构
 
 ### 栈与队列
++ 栈的定义
++ 栈的分类
++ 栈的代码
 
 ### 串
 
